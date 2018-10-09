@@ -1,10 +1,9 @@
 # Chase Coding Challenge 
+[Screenshots](#screenshots)
 
-![Ipad](/ipadChase.png)
+<img src="/ipadChase.png" alt="ipadChase" height="500" width="200">
 
-![iphone1](/iphoneChase1.png)
 
-![iphone2](/iphoneChase2.png)
 
 ###### Goal 
 
@@ -331,3 +330,12 @@ extension School: Filterable {
 
 There is a folder containing a few classes that I use to help my workflow and move efficently. These classes were adapted from both personal work on `Akta Digets` as well as from `Githawk` a 3rd party open source app. 
 
+
+
+## <a name="screenshots"></a> Screenshots 
+
+![Ipad](/ipadChase.png)
+
+![iphone1](/iphoneChase1.png)
+
+![iphone2](/iphoneChase2.png)
