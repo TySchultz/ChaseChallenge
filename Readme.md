@@ -1,7 +1,7 @@
 # Chase Coding Challenge 
 [Screenshots](#screenshots)
 
-<img src="/ipadChase.png" alt="ipadChase" height="500" width="200">
+<img src="/ipadChase.png" alt="ipadChase" max-width="50%">
 
 
 
