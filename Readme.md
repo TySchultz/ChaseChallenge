@@ -1,5 +1,7 @@
 # Chase Coding Challenge 
 
+![Ipad](/ipadChase.png)
+
 ###### Goal 
 
 > Create an iOS app that provides information on NYC High schools. Display a list of NYC High Schools.
