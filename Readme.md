@@ -285,7 +285,7 @@ We will have two screens. The Main tableview which is where the user lands inita
 
 
 ## <a name="UI"></a> UI 
-![AirBnb](/AirBNB.png)
+![AirBnb](/airBNB.png)
 
 We will use AirBnb as a base to start from. They are doing essentially the same thing we are. Providing a list of locations with information that the user is looking for.
 
