@@ -19,9 +19,13 @@ Break: 1 hour
 - [x] A fully working prototype.
 	- View all schools 
 	- Search 
-	- View detailed information and SAT scores - [x] Don’t worry about making the UI pretty.- [x] Tech approach you took and why.
-	- I decided to go with a simple two view structure. Main controller and detail controller. The main controller is built with IGListkit because of the speed and efficency that I can create using it. - [x] What was important to you – look and feel or the functionality?
-	- They are both equally important to me. The app needs to be able to present the information clearly, and at the same time be able to retrieve information without delay. - [x] Unit test coverage.
+	- View detailed information and SAT scores 
+- [x] Don’t worry about making the UI pretty.
+- [x] Tech approach you took and why.
+	- I decided to go with a simple two view structure. Main controller and detail controller. The main controller is built with IGListkit because of the speed and efficency that I can create using it. 
+- [x] What was important to you – look and feel or the functionality?
+	- They are both equally important to me. The app needs to be able to present the information clearly, and at the same time be able to retrieve information without delay. 
+- [x] Unit test coverage.
 
 
 ## Outline 
