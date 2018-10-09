@@ -14,6 +14,26 @@
 		10ED17B1216CE6A7004EA1AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10ED17B0216CE6A7004EA1AF /* Assets.xcassets */; };
 		10ED17B4216CE6A7004EA1AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10ED17B2216CE6A7004EA1AF /* LaunchScreen.storyboard */; };
 		10ED17BF216CE6A7004EA1AF /* ChaseChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17BE216CE6A7004EA1AF /* ChaseChallengeTests.swift */; };
+		10ED17CA216CEC6E004EA1AF /* InitialEmptyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17C9216CEC6E004EA1AF /* InitialEmptyView.swift */; };
+		10ED17CC216CECAC004EA1AF /* Styles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17CB216CECAB004EA1AF /* Styles.swift */; };
+		10ED17CE216CECF3004EA1AF /* UISearchBar+Keyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17CD216CECF3004EA1AF /* UISearchBar+Keyboard.swift */; };
+		10ED17D1216CEF64004EA1AF /* UICollectionViewLayout+Orientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17D0216CEF64004EA1AF /* UICollectionViewLayout+Orientation.swift */; };
+		10ED17D3216CEF9D004EA1AF /* UIViewController+SmartDeselection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17D2216CEF9D004EA1AF /* UIViewController+SmartDeselection.swift */; };
+		10ED17D5216CEFEC004EA1AF /* School.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17D4216CEFEC004EA1AF /* School.swift */; };
+		10ED17D7216CF1BB004EA1AF /* Filterable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17D6216CF1BB004EA1AF /* Filterable.swift */; };
+		10ED17D9216CFE80004EA1AF /* UIContentSizeCategory+Preferred.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17D8216CFE80004EA1AF /* UIContentSizeCategory+Preferred.swift */; };
+		10ED17DB216CFED0004EA1AF /* SchoolViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17DA216CFED0004EA1AF /* SchoolViewModel.swift */; };
+		10ED17DD216CFF59004EA1AF /* IGListCollectionViewLayout+GitHawk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17DC216CFF59004EA1AF /* IGListCollectionViewLayout+GitHawk.swift */; };
+		10ED17DF216CFFE7004EA1AF /* SchoolSectionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17DE216CFFE7004EA1AF /* SchoolSectionController.swift */; };
+		10ED17E2216D0066004EA1AF /* SchoolCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17E1216D0066004EA1AF /* SchoolCell.swift */; };
+		10ED17E4216D0106004EA1AF /* UIColor+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17E3216D0106004EA1AF /* UIColor+Hex.swift */; };
+		10ED17E6216D0707004EA1AF /* UIView+BottomBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17E5216D0707004EA1AF /* UIView+BottomBorder.swift */; };
+		10ED17E8216D116B004EA1AF /* SAT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17E7216D116A004EA1AF /* SAT.swift */; };
+		10ED17F0216D2B97004EA1AF /* DataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17EF216D2B97004EA1AF /* DataStore.swift */; };
+		10ED17F2216D2BA2004EA1AF /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17F1216D2BA2004EA1AF /* Networking.swift */; };
+		10ED17F5216D35C0004EA1AF /* SchoolViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17F4216D35BE004EA1AF /* SchoolViewModelTests.swift */; };
+		10ED17F7216D385F004EA1AF /* MasterViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10ED17F6216D385F004EA1AF /* MasterViewControllerTests.swift */; };
+		11FB4E8FF7298EDCCF8B334E /* Pods_ChaseChallenge.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4CB013303422A30058019D7 /* Pods_ChaseChallenge.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +58,28 @@
 		10ED17BA216CE6A7004EA1AF /* ChaseChallengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChaseChallengeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		10ED17BE216CE6A7004EA1AF /* ChaseChallengeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChaseChallengeTests.swift; sourceTree = "<group>"; };
 		10ED17C0216CE6A7004EA1AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		10ED17C9216CEC6E004EA1AF /* InitialEmptyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InitialEmptyView.swift; sourceTree = "<group>"; };
+		10ED17CB216CECAB004EA1AF /* Styles.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Styles.swift; sourceTree = "<group>"; };
+		10ED17CD216CECF3004EA1AF /* UISearchBar+Keyboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UISearchBar+Keyboard.swift"; sourceTree = "<group>"; };
+		10ED17D0216CEF64004EA1AF /* UICollectionViewLayout+Orientation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UICollectionViewLayout+Orientation.swift"; sourceTree = "<group>"; };
+		10ED17D2216CEF9D004EA1AF /* UIViewController+SmartDeselection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+SmartDeselection.swift"; sourceTree = "<group>"; };
+		10ED17D4216CEFEC004EA1AF /* School.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = School.swift; sourceTree = "<group>"; };
+		10ED17D6216CF1BB004EA1AF /* Filterable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Filterable.swift; sourceTree = "<group>"; };
+		10ED17D8216CFE80004EA1AF /* UIContentSizeCategory+Preferred.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIContentSizeCategory+Preferred.swift"; sourceTree = "<group>"; };
+		10ED17DA216CFED0004EA1AF /* SchoolViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolViewModel.swift; sourceTree = "<group>"; };
+		10ED17DC216CFF59004EA1AF /* IGListCollectionViewLayout+GitHawk.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "IGListCollectionViewLayout+GitHawk.swift"; sourceTree = "<group>"; };
+		10ED17DE216CFFE7004EA1AF /* SchoolSectionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolSectionController.swift; sourceTree = "<group>"; };
+		10ED17E1216D0066004EA1AF /* SchoolCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolCell.swift; sourceTree = "<group>"; };
+		10ED17E3216D0106004EA1AF /* UIColor+Hex.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Hex.swift"; sourceTree = "<group>"; };
+		10ED17E5216D0707004EA1AF /* UIView+BottomBorder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+BottomBorder.swift"; sourceTree = "<group>"; };
+		10ED17E7216D116A004EA1AF /* SAT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SAT.swift; sourceTree = "<group>"; };
+		10ED17EF216D2B97004EA1AF /* DataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStore.swift; sourceTree = "<group>"; };
+		10ED17F1216D2BA2004EA1AF /* Networking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
+		10ED17F4216D35BE004EA1AF /* SchoolViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolViewModelTests.swift; sourceTree = "<group>"; };
+		10ED17F6216D385F004EA1AF /* MasterViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewControllerTests.swift; sourceTree = "<group>"; };
+		3B0E00538A2A3C91E786B39C /* Pods-ChaseChallenge.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChaseChallenge.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChaseChallenge/Pods-ChaseChallenge.debug.xcconfig"; sourceTree = "<group>"; };
+		A2838077F492BDA59041F6E5 /* Pods-ChaseChallenge.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChaseChallenge.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChaseChallenge/Pods-ChaseChallenge.release.xcconfig"; sourceTree = "<group>"; };
+		A4CB013303422A30058019D7 /* Pods_ChaseChallenge.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChaseChallenge.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +87,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11FB4E8FF7298EDCCF8B334E /* Pods_ChaseChallenge.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,12 +101,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0FC5033C6EA1F5A5A26FB5D4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A4CB013303422A30058019D7 /* Pods_ChaseChallenge.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		10ED179B216CE6A4004EA1AF = {
 			isa = PBXGroup;
 			children = (
 				10ED17A6216CE6A4004EA1AF /* ChaseChallenge */,
 				10ED17BD216CE6A7004EA1AF /* ChaseChallengeTests */,
 				10ED17A5216CE6A4004EA1AF /* Products */,
+				5404BA1617F73C3F6165BAA3 /* Pods */,
+				0FC5033C6EA1F5A5A26FB5D4 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -81,11 +134,16 @@
 			children = (
 				10ED17A7216CE6A4004EA1AF /* AppDelegate.swift */,
 				10ED17A9216CE6A4004EA1AF /* MasterViewController.swift */,
+				10ED17E0216CFFF8004EA1AF /* School List */,
 				10ED17AB216CE6A4004EA1AF /* DetailViewController.swift */,
+				10ED17E7216D116A004EA1AF /* SAT.swift */,
+				10ED17EF216D2B97004EA1AF /* DataStore.swift */,
+				10ED17F1216D2BA2004EA1AF /* Networking.swift */,
 				10ED17AD216CE6A4004EA1AF /* Main.storyboard */,
 				10ED17B0216CE6A7004EA1AF /* Assets.xcassets */,
 				10ED17B2216CE6A7004EA1AF /* LaunchScreen.storyboard */,
 				10ED17B5216CE6A7004EA1AF /* Info.plist */,
+				10ED17CF216CED4A004EA1AF /* Helper Classes */,
 			);
 			path = ChaseChallenge;
 			sourceTree = "<group>";
@@ -95,8 +153,47 @@
 			children = (
 				10ED17BE216CE6A7004EA1AF /* ChaseChallengeTests.swift */,
 				10ED17C0216CE6A7004EA1AF /* Info.plist */,
+				10ED17F4216D35BE004EA1AF /* SchoolViewModelTests.swift */,
+				10ED17F6216D385F004EA1AF /* MasterViewControllerTests.swift */,
 			);
 			path = ChaseChallengeTests;
+			sourceTree = "<group>";
+		};
+		10ED17CF216CED4A004EA1AF /* Helper Classes */ = {
+			isa = PBXGroup;
+			children = (
+				10ED17E5216D0707004EA1AF /* UIView+BottomBorder.swift */,
+				10ED17E3216D0106004EA1AF /* UIColor+Hex.swift */,
+				10ED17DC216CFF59004EA1AF /* IGListCollectionViewLayout+GitHawk.swift */,
+				10ED17D8216CFE80004EA1AF /* UIContentSizeCategory+Preferred.swift */,
+				10ED17D6216CF1BB004EA1AF /* Filterable.swift */,
+				10ED17CB216CECAB004EA1AF /* Styles.swift */,
+				10ED17C9216CEC6E004EA1AF /* InitialEmptyView.swift */,
+				10ED17CD216CECF3004EA1AF /* UISearchBar+Keyboard.swift */,
+				10ED17D2216CEF9D004EA1AF /* UIViewController+SmartDeselection.swift */,
+				10ED17D0216CEF64004EA1AF /* UICollectionViewLayout+Orientation.swift */,
+			);
+			path = "Helper Classes";
+			sourceTree = "<group>";
+		};
+		10ED17E0216CFFF8004EA1AF /* School List */ = {
+			isa = PBXGroup;
+			children = (
+				10ED17D4216CEFEC004EA1AF /* School.swift */,
+				10ED17DA216CFED0004EA1AF /* SchoolViewModel.swift */,
+				10ED17DE216CFFE7004EA1AF /* SchoolSectionController.swift */,
+				10ED17E1216D0066004EA1AF /* SchoolCell.swift */,
+			);
+			path = "School List";
+			sourceTree = "<group>";
+		};
+		5404BA1617F73C3F6165BAA3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3B0E00538A2A3C91E786B39C /* Pods-ChaseChallenge.debug.xcconfig */,
+				A2838077F492BDA59041F6E5 /* Pods-ChaseChallenge.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -106,9 +203,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 10ED17C3216CE6A7004EA1AF /* Build configuration list for PBXNativeTarget "ChaseChallenge" */;
 			buildPhases = (
+				0CFFCADE11F314A5C0BE86D6 /* [CP] Check Pods Manifest.lock */,
 				10ED17A0216CE6A4004EA1AF /* Sources */,
 				10ED17A1216CE6A4004EA1AF /* Frameworks */,
 				10ED17A2216CE6A4004EA1AF /* Resources */,
+				AD82F8FAA8706B7239081C5C /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -195,12 +294,84 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0CFFCADE11F314A5C0BE86D6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ChaseChallenge-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AD82F8FAA8706B7239081C5C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-ChaseChallenge/Pods-ChaseChallenge-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/AlamofireNetworkActivityIndicator/AlamofireNetworkActivityIndicator.framework",
+				"${BUILT_PRODUCTS_DIR}/IGListKit/IGListKit.framework",
+				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
+				"${BUILT_PRODUCTS_DIR}/StyledTextKit/StyledTextKit.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireNetworkActivityIndicator.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IGListKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SnapKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/StyledTextKit.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ChaseChallenge/Pods-ChaseChallenge-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		10ED17A0216CE6A4004EA1AF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10ED17F0216D2B97004EA1AF /* DataStore.swift in Sources */,
+				10ED17DB216CFED0004EA1AF /* SchoolViewModel.swift in Sources */,
+				10ED17D3216CEF9D004EA1AF /* UIViewController+SmartDeselection.swift in Sources */,
+				10ED17D9216CFE80004EA1AF /* UIContentSizeCategory+Preferred.swift in Sources */,
+				10ED17CE216CECF3004EA1AF /* UISearchBar+Keyboard.swift in Sources */,
+				10ED17E8216D116B004EA1AF /* SAT.swift in Sources */,
 				10ED17AC216CE6A4004EA1AF /* DetailViewController.swift in Sources */,
+				10ED17CC216CECAC004EA1AF /* Styles.swift in Sources */,
+				10ED17E2216D0066004EA1AF /* SchoolCell.swift in Sources */,
+				10ED17D5216CEFEC004EA1AF /* School.swift in Sources */,
+				10ED17E6216D0707004EA1AF /* UIView+BottomBorder.swift in Sources */,
+				10ED17F2216D2BA2004EA1AF /* Networking.swift in Sources */,
+				10ED17CA216CEC6E004EA1AF /* InitialEmptyView.swift in Sources */,
+				10ED17E4216D0106004EA1AF /* UIColor+Hex.swift in Sources */,
+				10ED17DD216CFF59004EA1AF /* IGListCollectionViewLayout+GitHawk.swift in Sources */,
+				10ED17DF216CFFE7004EA1AF /* SchoolSectionController.swift in Sources */,
+				10ED17D1216CEF64004EA1AF /* UICollectionViewLayout+Orientation.swift in Sources */,
+				10ED17D7216CF1BB004EA1AF /* Filterable.swift in Sources */,
 				10ED17AA216CE6A4004EA1AF /* MasterViewController.swift in Sources */,
 				10ED17A8216CE6A4004EA1AF /* AppDelegate.swift in Sources */,
 			);
@@ -210,6 +381,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10ED17F7216D385F004EA1AF /* MasterViewControllerTests.swift in Sources */,
+				10ED17F5216D35C0004EA1AF /* SchoolViewModelTests.swift in Sources */,
 				10ED17BF216CE6A7004EA1AF /* ChaseChallengeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -362,6 +535,7 @@
 		};
 		10ED17C4216CE6A7004EA1AF /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3B0E00538A2A3C91E786B39C /* Pods-ChaseChallenge.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -373,13 +547,14 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tyschultz.ChaseChallenge;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
 		10ED17C5216CE6A7004EA1AF /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A2838077F492BDA59041F6E5 /* Pods-ChaseChallenge.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -391,7 +566,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.tyschultz.ChaseChallenge;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

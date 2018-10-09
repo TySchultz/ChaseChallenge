@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireNetworkActivityIndicator (2.2.1):
+    - Alamofire (~> 4.7)
+  - IGListKit/Default (3.3.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.3.0)
+  - IGListKit/Swift (3.3.0):
+    - IGListKit/Default
+  - SnapKit (4.0.0)
+  - StyledTextKit (0.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireNetworkActivityIndicator (~> 2.1)
+  - IGListKit/Swift (from `https://github.com/Instagram/IGListKit.git`, branch `swift`)
+  - SnapKit (~> 4.0.0)
+  - StyledTextKit (from `https://github.com/GitHawkApp/StyledTextKit.git`, branch `master`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireNetworkActivityIndicator
+    - SnapKit
+
+EXTERNAL SOURCES:
+  IGListKit:
+    :branch: swift
+    :git: https://github.com/Instagram/IGListKit.git
+  StyledTextKit:
+    :branch: master
+    :git: https://github.com/GitHawkApp/StyledTextKit.git
+
+CHECKOUT OPTIONS:
+  IGListKit:
+    :commit: 5c1c92b600f0d8094f22fff48e26ded323568194
+    :git: https://github.com/Instagram/IGListKit.git
+  StyledTextKit:
+    :commit: d47830c8159afe5f3f5fdf57d4fe704872285465
+    :git: https://github.com/GitHawkApp/StyledTextKit.git
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireNetworkActivityIndicator: aeac50e6ecb78ec71a5f1f29098bcf4ec2962910
+  IGListKit: 7edb98afdb8401245d8bea0b733ebd4ac5e67caf
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  StyledTextKit: ea9a28a86955c16ea27f1a1a9278b004966f2bf6
+
+PODFILE CHECKSUM: d300b23ea55c3a8da0085e73467fc789bf5d4ccc
+
+COCOAPODS: 1.5.3
