@@ -2,6 +2,10 @@
 
 ![Ipad](/ipadChase.png)
 
+![iphone1](/iphoneChase1.png)
+
+![iphone2](/iphoneChase2.png)
+
 ###### Goal 
 
 > Create an iOS app that provides information on NYC High schools. Display a list of NYC High Schools.
