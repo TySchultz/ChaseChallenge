@@ -13,7 +13,7 @@
 
 ##### Timeline 
 
-Project Start: 11:00AM October 9th 
+Project Start: 9:00AM October 9th 
 
 Project Finish: 3:30 PM October 9th 
 
